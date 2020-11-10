@@ -1,2 +1,3 @@
 # fullstackopenCourses
-fullstackopen.com learning
+
+fullstackopen.com Exercises
